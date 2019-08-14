@@ -14,7 +14,7 @@ class AppBar extends Component {
                 <Bar className={classes.Bar} position="static">
                     <Toolbar>
                         <Typography className={classes.title} variant="h6" >
-                            React Test
+                            React Sample
                         </Typography>
                     </Toolbar>
                 </Bar>
